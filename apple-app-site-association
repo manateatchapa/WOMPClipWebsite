@@ -4,11 +4,6 @@ permalink: .well-known/apple-app-site-association
 ---
 
 {
-    "webcredentials": { 
-        "apps": [ 
-            DW6272TX34.mana.Whats-On-My-Phone-Controller
-        ] 
-    },
     "appclips": {
         "apps": [
             "DW6272TX34.mana.Whats-On-My-Phone-Controller.Clip
