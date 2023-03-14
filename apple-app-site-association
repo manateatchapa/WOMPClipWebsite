@@ -6,7 +6,7 @@ permalink: .well-known/apple-app-site-association
 {
     "appclips": {
         "apps": [
-            "DW6272TX34.mana.Whats-On-My-Phone-Controller.Clip"
+            "DW6272TX34.com.mana.Whats-On-My-Phone-Controller.Clip"
         ]
     }
 }
