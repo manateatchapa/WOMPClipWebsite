@@ -4,6 +4,17 @@ permalink: .well-known/apple-app-site-association
 ---
 
 {
+    "applinks": {
+        "apps": [], 
+        "details": [
+            {
+                "appID": "DW6272TX34.com.mana.Whats-On-My-Phone-Controller", 
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
     "appclips": {
         "apps": [
             "DW6272TX34.com.mana.Whats-On-My-Phone-Controller.Clip"
